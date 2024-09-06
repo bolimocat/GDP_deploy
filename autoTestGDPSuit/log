@@ -1,0 +1,889 @@
+GDP test suit 
+
+GDP test suit 
+20240829_093402
+GDP test suit 
+2024-08-29_09:34:45
+GDP test suit 
+Begin : 2024-08-29_09:36:57
+GDP test suit over
+End : 2024-08-29_09:36:57
+GDP test suit 
+Begin : 2024-08-29_09:37:27
+GDP test suit over
+End : 2024-08-29_09:37:27
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_09:37:38
+GDP test suit over
+End : 2024-08-29_09:37:38
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_09:53:37
+The current test task num : 46
+Current build result : Finished: FAILURE
+build faild
+GDP test suit over
+End : 2024-08-29_09:53:37
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_10:08:11
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-08-29_10:08:11
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_10:08:17
+Fetch the number 45 build to test.
+The current test task num : 45
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+Ending deploy 
+GDP test suit over
+End : 2024-08-29_10:09:15
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_10:41:10
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-08-29_10:41:10
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_10:41:23
+Fetch the newest build to test.
+The current test task num : 46
+Current build result : Finished: FAILURE
+build faild
+GDP test suit over
+End : 2024-08-29_10:41:23
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_10:41:27
+Fetch the number 45 build to test.
+The current test task num : 45
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/45/archive/gdp-1.9.9-R1.5-b45-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/45/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/45/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_10:41:27
+fetch building  from 45
+cp gdp 2024-08-29_10:41:28
+cp backend 2024-08-29_10:41:33
+cp client 2024-08-29_10:41:34
+Start to deploy GDP ... ...2024-08-29_10:41:34
+Ending deploy 2024-08-29_11:07:38
+GDP test suit over
+End : 2024-08-29_11:07:38
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_11:19:52
+Restart docker.service2024-08-29_11:19:52
+GDP test suit 
+Begin : 2024-08-29_11:20:16
+Restart docker.service2024-08-29_11:20:16
+Fetch the number 45 build to test.
+The current test task num : 45
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/45/archive/gdp-1.9.9-R1.5-b45-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/45/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/45/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_11:21:24
+fetch building  from 45
+cp gdp 2024-08-29_11:21:25
+cp backend 2024-08-29_11:21:29
+cp client 2024-08-29_11:21:30
+Start to deploy GDP ... ...2024-08-29_11:21:30
+Ending deploy 2024-08-29_11:48:27
+Deploy success , token : 
+GDP test suit 
+Begin : 2024-08-29_11:51:20
+Fetch the number 44 build to test.
+The current test task num : 44
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-08-29_11:51:20
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_11:51:24
+Fetch the number 43 build to test.
+The current test task num : 43
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-08-29_11:51:24
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_11:57:26
+Fetch the number 42 build to test.
+The current test task num : 42
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-1.9.9-R1.5-b42-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_11:57:26
+fetch building  from 42
+cp gdp 2024-08-29_11:57:28
+cp backend 2024-08-29_11:57:37
+cp client 2024-08-29_11:57:38
+Start to deploy GDP ... ...2024-08-29_11:57:39
+Ending deploy 2024-08-29_12:25:30
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_12:25:36
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_13:17:16
+Fetch the number 42 build to test.
+The current test task num : 42
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-1.9.9-R1.5-b42-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_13:17:16
+fetch building  from 42
+cp gdp 2024-08-29_13:17:17
+cp backend 2024-08-29_13:17:26
+cp client 2024-08-29_13:17:28
+Start to deploy GDP ... ...2024-08-29_13:17:28
+Ending deploy 2024-08-29_13:34:18
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_13:34:24
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_13:38:04
+Fetch the number 41 build to test.
+The current test task num : 41
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/41/archive/gdp-1.9.9-R1.5-b41-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/41/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/41/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_13:38:04
+fetch building  from 41
+cp gdp 2024-08-29_13:38:06
+cp backend 2024-08-29_13:38:15
+cp client 2024-08-29_13:38:16
+Start to deploy GDP ... ...2024-08-29_13:38:16
+Ending deploy 2024-08-29_13:54:59
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_13:55:05
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_14:56:44
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-08-29_14:56:44
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_14:56:50
+Fetch the number 42 build to test.
+The current test task num : 42
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-1.9.9-R1.5-b42-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_14:56:50
+fetch building  from 42
+cp gdp 2024-08-29_14:56:51
+cp backend 2024-08-29_14:57:00
+cp client 2024-08-29_14:57:00
+Start to deploy GDP ... ...2024-08-29_14:57:00
+Ending deploy 2024-08-29_15:09:52
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_15:09:58
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_15:28:16
+Fetch the number 42 build to test.
+The current test task num : 42
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-1.9.9-R1.5-b42-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_15:28:16
+fetch building  from 42
+cp gdp 2024-08-29_15:28:18
+cp backend 2024-08-29_15:28:22
+cp client 2024-08-29_15:28:22
+Start to deploy GDP ... ...2024-08-29_15:28:23
+Ending deploy 2024-08-29_15:41:07
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_15:41:13
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_17:21:06
+Fetch the number 42 build to test.
+The current test task num : 42
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-1.9.9-R1.5-b42-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_17:21:06
+fetch building  from 42
+cp gdp 2024-08-29_17:21:08
+cp backend 2024-08-29_17:21:11
+cp client 2024-08-29_17:21:12
+Start to deploy GDP ... ...2024-08-29_17:21:12
+Ending deploy 2024-08-29_17:33:28
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_17:33:34
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_17:36:54
+Fetch the newest build to test.
+The current test task num : permalinks
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-08-29_17:36:54
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_17:37:15
+Fetch the number 42 build to test.
+The current test task num : 42
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-1.9.9-R1.5-b42-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/42/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_17:37:15
+fetch building  from 42
+cp gdp 2024-08-29_17:37:17
+cp backend 2024-08-29_17:37:21
+cp client 2024-08-29_17:37:21
+Start to deploy GDP ... ...2024-08-29_17:37:22
+Ending deploy 2024-08-29_17:49:13
+Deploy success , token : 
+GDP test suit over
+End : 2024-08-29_17:49:19
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_17:52:26
+Fetch the newest build to test.
+The current test task num : 48
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/48/archive/gdp-1.9.9-R1.5-b48-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/48/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/48/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_17:52:26
+fetch building  from 48
+cp gdp 2024-08-29_17:52:28
+cp backend 2024-08-29_17:52:37
+cp client 2024-08-29_17:52:38
+Start to deploy GDP ... ...2024-08-29_17:52:39
+Ending deploy 2024-08-29_18:04:03
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-29_18:04:09
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-29_18:08:13
+Fetch the newest build to test.
+The current test task num : 48
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/48/archive/gdp-1.9.9-R1.5-b48-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/48/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/48/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-29_18:08:13
+fetch building  from 48
+cp gdp 2024-08-29_18:08:15
+cp backend 2024-08-29_18:08:24
+cp client 2024-08-29_18:08:25
+Start to deploy GDP ... ...2024-08-29_18:08:25
+Ending deploy 2024-08-29_18:33:06
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-29_18:33:12
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_09:08:32
+Fetch the newest build to test.
+The current test task num : 49
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-1.9.9-R1.5-b49-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-30_09:08:32
+fetch building  from 49
+cp gdp 2024-08-30_09:08:34
+cp backend 2024-08-30_09:08:43
+cp client 2024-08-30_09:08:44
+Start to deploy GDP ... ...2024-08-30_09:08:45
+Ending deploy 2024-08-30_09:24:04
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-30_09:24:10
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_09:36:57
+Fetch the newest build to test.
+The current test task num : 49
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-1.9.9-R1.5-b49-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-30_09:36:57
+fetch building  from 49
+cp gdp 2024-08-30_09:36:59
+cp backend 2024-08-30_09:37:08
+cp client 2024-08-30_09:37:09
+Start to deploy GDP ... ...2024-08-30_09:37:10
+Ending deploy 2024-08-30_09:50:41
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-30_09:50:46
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_09:55:48
+Fetch the newest build to test.
+The current test task num : 49
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-1.9.9-R1.5-b49-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-30_09:55:48
+fetch building  from 49
+cp gdp 2024-08-30_09:55:50
+cp backend 2024-08-30_09:55:54
+cp client 2024-08-30_09:55:55
+Start to deploy GDP ... ...2024-08-30_09:55:55
+Ending deploy 2024-08-30_10:08:53
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-30_10:09:24
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_10:22:58
+Fetch the newest build to test.
+The current test task num : 49
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-1.9.9-R1.5-b49-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-30_10:22:58
+fetch building  from 49
+cp gdp 2024-08-30_10:23:00
+cp backend 2024-08-30_10:23:04
+cp client 2024-08-30_10:23:05
+Start to deploy GDP ... ...2024-08-30_10:23:05
+Ending deploy 2024-08-30_10:34:04
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-30_10:34:35
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_11:02:43
+Fetch the newest build to test.
+The current test task num : 49
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-1.9.9-R1.5-b49-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-30_11:02:43
+fetch building  from 49
+cp gdp 2024-08-30_11:02:45
+cp backend 2024-08-30_11:02:49
+cp client 2024-08-30_11:02:50
+Start to deploy GDP ... ...2024-08-30_11:02:50
+Ending deploy 2024-08-30_11:13:55
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-30_11:14:26
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_11:21:35
+Fetch the newest build to test.
+The current test task num : 49
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-1.9.9-R1.5-b49-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/49/archive/gdp-dist/clients/x86_64/client-node.1.9.9.run
+clean the deploy tool folder ... ... 2024-08-30_11:21:35
+fetch building  from 49
+cp gdp 2024-08-30_11:21:36
+cp backend 2024-08-30_11:21:40
+cp client 2024-08-30_11:21:41
+Start to deploy GDP ... ...2024-08-30_11:21:41
+Ending deploy 2024-08-30_11:32:56
+GDP login failed , perhaps deploy failed ... 
+GDP test suit over
+End : 2024-08-30_11:37:57
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-08-30_13:23:14
+Fetch the newest build to test.
+The current test task num : 51
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/51/archive/gdp-1.9.9.2-R1.5-b51-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/51/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/51/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-08-30_13:23:14
+fetch building  from 51
+cp gdp 2024-08-30_13:23:16
+cp backend 2024-08-30_13:23:24
+cp client 2024-08-30_13:23:26
+Start to deploy GDP ... ...2024-08-30_13:23:26
+Ending deploy 2024-08-30_13:37:10
+GDP test suit over
+End : 2024-08-30_13:42:11
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:13:30
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_09:13:30
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:13:36
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_09:13:36
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:14:21
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_09:14:21
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:14:41
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_09:14:42
+fetch building  from 54
+cp gdp 2024-09-02_09:14:43
+cp backend 2024-09-02_09:14:53
+cp client 2024-09-02_09:14:54
+Start to deploy GDP ... ...2024-09-02_09:14:55
+Ending deploy 2024-09-02_09:37:12
+Deploy success 
+GDP test suit over
+End : 2024-09-02_09:39:12
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:43:36
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_09:43:36
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:43:40
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_09:43:40
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:44:28
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_09:44:28
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_09:44:37
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_09:44:37
+fetch building  from 54
+cp gdp 2024-09-02_09:44:39
+cp backend 2024-09-02_09:44:48
+cp client 2024-09-02_09:44:49
+Start to deploy GDP ... ...2024-09-02_09:44:50
+Ending deploy 2024-09-02_09:58:11
+Deploy success 
+GDP test suit over
+End : 2024-09-02_10:00:11
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_10:02:23
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_10:02:23
+fetch building  from 54
+cp gdp 2024-09-02_10:02:25
+cp backend 2024-09-02_10:02:30
+cp client 2024-09-02_10:02:30
+Start to deploy GDP ... ...2024-09-02_10:02:30
+Ending deploy 2024-09-02_10:14:25
+GDP test suit 
+Begin : 2024-09-02_10:18:09
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_10:18:09
+fetch building  from 54
+cp gdp 2024-09-02_10:18:10
+cp backend 2024-09-02_10:18:15
+cp client 2024-09-02_10:18:15
+Start to deploy GDP ... ...2024-09-02_10:18:16
+Ending deploy 2024-09-02_10:29:32
+GDP test suit 
+Begin : 2024-09-02_10:58:27
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_10:58:27
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_10:58:36
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_10:58:36
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_10:58:42
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_10:58:42
+fetch building  from 54
+cp gdp 2024-09-02_10:58:44
+cp backend 2024-09-02_10:58:48
+cp client 2024-09-02_10:58:48
+Start to deploy GDP ... ...2024-09-02_10:58:49
+Ending deploy 2024-09-02_11:11:09
+GDP test suit 
+Begin : 2024-09-02_11:26:56
+Fetch the number  build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-02_11:26:56
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-02_11:26:59
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_11:26:59
+fetch building  from 54
+cp gdp 2024-09-02_11:27:00
+cp backend 2024-09-02_11:27:04
+cp client 2024-09-02_11:27:05
+Start to deploy GDP ... ...2024-09-02_11:27:05
+Ending deploy 2024-09-02_11:39:19
+GDP test suit 
+Begin : 2024-09-02_11:57:29
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_11:57:29
+fetch building  from 54
+cp gdp 2024-09-02_11:57:31
+cp backend 2024-09-02_11:57:35
+cp client 2024-09-02_11:57:36
+Start to deploy GDP ... ...2024-09-02_11:57:36
+Ending deploy 2024-09-02_12:10:59
+GDP test suit 
+Begin : 2024-09-02_13:29:08
+Fetch the number 54 build to test.
+The current test task num : 54
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-1.9.9.2-R1.5-b54-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/54/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-02_13:29:08
+fetch building  from 54
+cp gdp 2024-09-02_13:29:10
+cp backend 2024-09-02_13:29:14
+cp client 2024-09-02_13:29:14
+Start to deploy GDP ... ...2024-09-02_13:29:15
+Ending deploy 2024-09-02_13:40:25
+GDP test suit 
+Begin : 2024-09-04_09:04:17
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-04_09:04:17
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-04_09:05:31
+Fetch the newest build to test.
+The current test task num : 
+Current build result : 
+build faild
+GDP test suit over
+End : 2024-09-04_09:05:31
+--------------------------------------------
+
+
+GDP test suit 
+Begin : 2024-09-04_09:11:37
+Fetch the number 56 build to test.
+The current test task num : 56
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/56/archive/gdp-1.9.9.2-R1.5-b56-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/56/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/56/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-04_09:11:37
+fetch building  from 56
+cp gdp 2024-09-04_09:11:38
+cp backend 2024-09-04_09:11:47
+cp client 2024-09-04_09:11:49
+Start to deploy GDP ... ...2024-09-04_09:11:49
+Ending deploy 2024-09-04_09:27:52
+GDP test suit 
+Begin : 2024-09-06_10:45:31
+Fetch the number 55 build to test.
+The current test task num : 55
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/55/archive/gdp-1.9.9.2-R1.5-b55-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/55/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/55/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-06_10:45:31
+fetch building  from 55
+cp gdp 2024-09-06_10:45:33
+cp backend 2024-09-06_10:45:42
+cp client 2024-09-06_10:45:44
+Start to deploy GDP ... ...2024-09-06_10:45:44
+Ending deploy 2024-09-06_11:03:24
+GDP test suit 
+Begin : 2024-09-06_11:11:28
+Fetch the number 52 build to test.
+The current test task num : 52
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/52/archive/gdp-1.9.9.2-R1.5-b52-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/52/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/52/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-06_11:11:28
+fetch building  from 52
+cp gdp 2024-09-06_11:11:30
+cp backend 2024-09-06_11:11:39
+cp client 2024-09-06_11:11:40
+Start to deploy GDP ... ...2024-09-06_11:11:41
+Ending deploy 2024-09-06_11:26:40
+GDP test suit 
+Begin : 2024-09-06_11:31:11
+Fetch the number 51 build to test.
+The current test task num : 51
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/51/archive/gdp-1.9.9.2-R1.5-b51-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/51/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/51/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-06_11:31:11
+fetch building  from 51
+cp gdp 2024-09-06_11:31:12
+cp backend 2024-09-06_11:31:21
+cp client 2024-09-06_11:31:22
+Start to deploy GDP ... ...2024-09-06_11:31:23
+Ending deploy 2024-09-06_11:43:51
+GDP test suit 
+Begin : 2024-09-06_14:04:56
+Fetch the number 58 build to test.
+The current test task num : 58
+Current build result : Finished: SUCCESS
+build correct 
+Starting deploy ... ... 
+gdp file is /mnt/jobs/dpdr-R1.5/builds/58/archive/gdp-1.9.9.2-R1.5-b58-.sh
+backend file is : /mnt/jobs/dpdr-R1.5/builds/58/archive/gdp-dist/backends/x86_64/backend-node.1.9.9.2.run
+client file is : /mnt/jobs/dpdr-R1.5/builds/58/archive/gdp-dist/clients/x86_64/client-node.1.9.9.2.run
+clean the deploy tool folder ... ... 2024-09-06_14:04:56
+fetch building  from 58
+cp gdp 2024-09-06_14:04:58
+cp backend 2024-09-06_14:05:07
+cp client 2024-09-06_14:05:08
+Start to deploy GDP ... ...2024-09-06_14:05:08
+Ending deploy 2024-09-06_14:21:00

@@ -1,0 +1,23 @@
+GDPz自动部署工具
+目前验证无差错的版本是x86版本。
+使用方法：
+
+0 前提使用script/exchange_key.sh执行过部署主机到GDP节点的交换key,交换地址为执行部署的工具到file/host_list中列出的所有主机地址。（x86正常，kylin交换key不可用。）
+
+1 host_list文件包含所有节点角色的IP地址，目前最多支持1个storage，4个client。
+
+2 properties：
+architecture:x86 --还支持arm，但arm环境交换key不可用，导致每个远程操作都要重新输入密码。
+admin_file: --admin文件名
+backend_file: --backend文件名
+client_file: --client文件名
+admin_path:/opt/admin_build --文件在目标主机上存储位置，下同。
+backend_path:/opt/backend_build
+client_path:/opt/client_build
+aio:0  --0为非一体机，1为一体机
+
+3 把对应的arm版本或x86版本的各自3个文件，放在build/x86或build/arm目录下，里面的镜像文件根据M版本的需要更换。
+
+4 所有文件，配置存放，修改完成后，直接执行./GDPdeploy，开始自动化部署。结果检查：在每个主机的安装目录中生成该文件的安装日志，最后标记$?结果，0表示安装正常。
+
+5 稍后即可登录admin使用。

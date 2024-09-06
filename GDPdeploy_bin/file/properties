@@ -1,0 +1,8 @@
+architecture:x86
+admin_file:gdp-1.9.7-R1.0M1.9-b68.sh
+backend_file:backend-node.1.9.7.run
+client_file:client-node.1.9.7.run
+admin_path:/opt/admin_build
+backend_path:/opt/backend_build
+client_path:/opt/client_build
+aio:1
